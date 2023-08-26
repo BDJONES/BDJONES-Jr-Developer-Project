@@ -5,7 +5,7 @@ using UnityEngine;
 public class ShootGun : MonoBehaviour
 {
     //private Rigidbody projectileRb;
-    private float range = 15f;
+    private float range = 20f;
     private float damage = 10f;
     public Camera playerCamera;
     private GameObject selectedObject;
